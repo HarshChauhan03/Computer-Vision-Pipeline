@@ -15,28 +15,6 @@ WeBugMate combines real-time communication, RBAC-enforced AI chatbots, project m
 [Features](#features) • [Architecture](#architecture) • [File Structure](#file-structure) • [Installation](#installation) • [API Reference](#api-reference) • [Workflow](#workflow)
 
 </div>
----
-<div align="center">
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3EF4&height=200&section=header&text=WeBugMate&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Resolution%20Platform&descAlignY=60&descSize=22&descColor=c4b5fd" width="100%"/>
-<br>
-![WeBugMate](https://img.shields.io/badge/WeBugMate-AI%20Workspace-6C3EF4?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-19.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![License](https://img.shields.io/badge/License-Proprietary-EF4444?style=for-the-badge)
-<br>
-> **An enterprise-grade, AI-driven collaborative workspace platform built by [We3vision Private Limited](https://we3vision.com).**
-> WeBugMate combines real-time communication, RBAC-enforced AI chatbots, project management, and intelligent feedback systems into a single unified workspace.
-<br>
-![Features](https://img.shields.io/badge/→-Features-6C3EF4?style=flat-square)
-![Architecture](https://img.shields.io/badge/→-Architecture-6C3EF4?style=flat-square)
-![File Structure](https://img.shields.io/badge/→-File%20Structure-6C3EF4?style=flat-square)
-![Installation](https://img.shields.io/badge/→-Installation-009688?style=flat-square)
-![API Reference](https://img.shields.io/badge/→-API%20Reference-3776AB?style=flat-square)
-![Workflow](https://img.shields.io/badge/→-Workflow-61DAFB?style=flat-square)
-<br>
 
 ---
 
